@@ -1,0 +1,1 @@
+create table emp (emp_id integer,name varchar(40),email varchar(100),salary float);
